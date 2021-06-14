@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@600&display=swap');
+
+
+
+*{
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 0;
+}  
+   
+
+.main{
+    border: 2px solid rgb(129, 128, 128);
+    justify-content: center;
+    align-items: center;
+    height: 760px;
+    width: 420px;
+    border-radius: 4%;
+    margin-left: 400px;
+
+}
+
+.header{
+    position: relative;
+}
+.header img{
+    width: 10%;
+    height: 30%;
+    border-radius: 50%;
+}
+.name
+{
+    display: inline-block;
+    margin-top: 0px;
+    
+   
+    text-align: justify;
+    position: absolute;
+   
+}
+.settings{
+    display: inline-block;
+    float: right;
+    width: 50px;
+    height: 150px;
+    
+}
+
+.firstbox{
+    background-color: #f8cfce;
+    padding: 2px;
+    margin: 0px 5px;
+    border-radius: 6%;
+    width: 95%;
+    height: 200px;
+}
+.number{
+    text-align: justify;
+}
+.usdbtn{
+    float: right;
+    margin-right: -50px;
+    color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.downbtn{
+    border: none;
+    background-color: transparent;
+    
+}
+.hbd{
+    background-color: white;
+    width: 90px;
+    border-radius: 2%;
+}
+.secondbox{
+    height: 100px;
+    display: inline-block;
+    background-color:#cfe8e7;
+    padding: 2px;
+    margin:0px 5px;
+    border-radius: 6%;
+    width: 95%;
+}
+
+.secondbox-name{
+    display: inline;
+    float:right ; 
+    margin-right: 150px;   
+   
+    
+}
+.dropbtn2{
+    border: none;
+    background-color: transparent;
+    margin-top: 30px;
+    height: 10px;
+    width: 10px;
+
+}
+.available{
+    display: inline-block;
+    margin-top: -10px;
+    float: right;
+    
+    
+}
+.filterbtn{
+    display: inline-block;
+    
+    float: right;
+    
+    color: white;
+    background-color: black;
+    border-radius: 30%;
+    text-align: center;
+    
+    
+}    
+
+.footer
+{
+    box-sizing: border-box;
+}
+.Details{
+    text-align: justify;
+    margin-bottom: 50px;
+    
+}
+.list
+{
+    box-sizing: border-box;
+}
+list li h3{
+    display: inline-block;
+}
+.dollar{
+    display: inline-block;
+    float: right;
+    margin-top: -10%;
+}
+.fname{
+    display: inline;
+    float:right ; 
+    margin-right: 170px; 
+}
+.tname{
+    display: inline;
+    float:right ; 
+    margin-right: 230px; 
+}
+.subhead{
+    margin:0px 60px;
+    padding: 0px;
+}
